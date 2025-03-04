@@ -1,0 +1,3 @@
+﻿  ORDER-PLANNING.cpp
+C:\Users\glsmn\source\repos\ORDER-PLANNING\ORDER-PLANNING.cpp(22,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ORDER-PLANNING.vcxproj -> C:\Users\glsmn\source\repos\ORDER-PLANNING\x64\Debug\ORDER-PLANNING.exe
